@@ -7,10 +7,8 @@ Implementation based on tutorial found [here](http://lodev.org/cgtutor/raycastin
 
 Textures from www.opengameart.org
 
-
-Notes: 
-*Supports a primitive form of fog (Fade to black)
-*Textures must be 64x64
-*Sprite rendering not implemented
+* Supports a primitive form of fog (Fade to black)
+* Textures must be 64x64
+* Sprite rendering not implemented
 
 ![Sample Screenshot](http://i.imgur.com/wNGCbgb.png)

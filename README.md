@@ -8,6 +8,7 @@ Implementation based on tutorial found [here](http://lodev.org/cgtutor/raycastin
 Textures from www.opengameart.org
 
 * Supports a primitive form of fog (Fade to black)
+* Camera is Dungeon Crawler style (Tile Based) Rather than Wolf3D style
 * Textures must be 64x64
 * Sprite rendering not implemented
 
